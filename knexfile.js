@@ -1,4 +1,5 @@
-// do not make changes to this file (except to optionally add seeds)
+// Update with your config settings
+
 const sharedConfig = {
   client: 'sqlite3',
   useNullAsDefault: true,
